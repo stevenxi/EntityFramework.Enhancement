@@ -9,7 +9,7 @@
     <AssemblyVersion>0.0.1.0</AssemblyVersion>
     <FileVersion>0.0.1.0</FileVersion>
     <Version>0.0.1</Version>
-    <PackageId>EntityFrameworkEnhancement</PackageId>
+    <PackageId>UDI.EntityFramework.Enhancement</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
